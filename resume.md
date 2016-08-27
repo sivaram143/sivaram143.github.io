@@ -1,14 +1,11 @@
 ---
 layout: page
-title: resume
 permalink: /resume/
 ---
 Sivaram Nyayapati
 =================
 
-Email : sivaram.nyayapati@gmail.com
-Mobile: 9248321987
-Github: sivaram143.github.io
+**Email** : sivaram.nyayapati@gmail.com | **Mobile**: 9248321987 | **Github**: sivaram143.github.io
 
 Career Objective
 ----------------
