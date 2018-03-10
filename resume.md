@@ -5,11 +5,13 @@ permalink: /resume/
 Sivaram Nyayapati
 =================
 
-**Email** : sivaram.nyayapati@gmail.com
-**Mobile**: 9248321987
-**MyBlog**:http://sivaramtutorials.blogspot.in/
-**MyDocSite**: http://sivaram143.github.io/hello-world/docs/html/
-**MyLMS**:https://sivaram143.github.io/my_lms/
+
+Email : sivaram.nyayapati@gmail.com | Mobile: 9248321987 
+
+[MyBlog](http://sivaramtutorials.blogspot.in/) | [MyDocLib](http://sivaram143.github.io/hello-world) | [MyLMS](https://sivaram143.github.io/my_lms/)
+
+
+
 
 Career Objective
 ----------------
