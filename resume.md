@@ -5,11 +5,15 @@ permalink: /resume/
 Sivaram Nyayapati
 =================
 
-**Email** : sivaram.nyayapati@gmail.com | **Mobile**: 9248321987 | **Github**: sivaram143.github.io
+**Email** : sivaram.nyayapati@gmail.com
+**Mobile**: 9248321987
+**MyBlog**:http://sivaramtutorials.blogspot.in/
+**MyDocSite**: http://sivaram143.github.io/hello-world/docs/html/
+**MyLMS**:https://sivaram143.github.io/my_lms/
 
 Career Objective
 ----------------
-4+ years software engineer with a strong educational background and experience, seeking a challenging career with a solid company utilizing the opportunity to offer proven and developing skills within the company.
+5+ years software engineer with a strong educational background and experience, seeking a challenging career with a solid company utilizing the opportunity to offer proven and developing skills within the company.
 
 Professional Summary
 --------------------
@@ -22,10 +26,11 @@ Professional Summary
 *   Experience in JavaScript and AngularJS
 *   Experience in PHP/MySql application development
 *   Experience in Node.js and asynchronous programming using Express framework
-*   Ability to translate Wireframes into functional web apps using HTML5, AngularJS, Node.js, and Mongo
+*   Ability to translate wireframes into functional web apps using HTML5, AngularJS, Node.js, and Mongo
 *   Hands on experience on NoSQL database – ideally MongoDB
 *   Hands on experience in source code management (GIT)
 *   Experience in Test-driven development
+*   Hands on experience in react with redux(state container)
 *   Versed in both agile and waterfall development techniques.
 *   Experience in cloud platforms such as AWS
 *   Experience in Automated route process using scripts (bash, python, js)
@@ -40,23 +45,41 @@ Professional Summary
 *   Maintaining APIs and existing applications
 *   Write code that is cross-platform and cross-device compatible
 *   Creative, resourceful and flexible, able to adapt to changing priorities and maintain a positive attitude and strong work ethic.
+*   Able to work independently, developing and implementing solutions while also able to collaborate with a team, managing
+and delegating tasks appropriately and efficiently.
 *   Ability to wear many hats and learn new technologies quickly
 
- 
+
 
 Work Experience
 ---------------
+*   **Verizon** (Hyderabad, India)
+
+    *Analyst-System Dev*, Mar, 2017 - Present
+
+    -   Developed the UI screen as per vz company standards.
+    -   Understand the LTE basics and part of call trace development of LTE interfaces
+    -   Learned splunk web-framework and developed the KPI dashboards using the Cassandra db
+    -   Understand and working exp on Apache drill, parquet files
+    -   Prepare the technical documentations
+    -   Developed the POC using React, Node.js, Dse graph, Next Ui to show the LTE interface flow in topological view
+    -   Understand the gremlin queries
+    -   Developed the chat bot app using Amazon Lex as part of Hackthon
+    -   Got hands-on experience on the SDN basics as part SDN bootcamp
+    -   Apart from technical, Active Participant in CSR activities
+    -   Learn and update on the new technologies like RPA(UI Path), R
+
 
 *   **Teamf1Networks Pvt Ltd** (Hyderabad, India)
 
-    *Software Engineer*, Aug, 2013 - Present
+    *Software Engineer*, Aug, 2013 - Jan, 2017
 
     -   Design and Developing the Code as per the requirements.
     -   Developing the GUI Pages for prototyping
     -   Act as build and release engineer
     -   Debug the code fix the bugs
     -   Implementing GUI prototype and code for new enhancements
-    -   Developing mongo / shell scripts for repetative tasks
+    -   Developing mongo / shell scripts for repetative-tasks
     -   Following good practices to write the code DRY appraoch
     -   Working on TDD approach
     -   Involving the agile sprint and scrum
@@ -65,11 +88,13 @@ Work Experience
 
 *   **Marube Systems** (Viskhapatnam, India)
 
-    *Software Engineer*, May, 2012  - Aug, 2013 
+    *Software Engineer*, May, 2012  - Aug, 2013
 
-    - Write the html forms
+    - write the html forms
     - Integrating forms with PHP / MySql
     - Design and Develop the code
+    - Testing the web-application
+    - Involving in fixing bugs
 
 Education
 ---------
@@ -85,15 +110,17 @@ Education
 Skills
 ------
 
-*   *Platform*: Windows, Linux
+*   *Platform*: Windows, Linux, Mac
 
-*   *Languages*: C,Javam Python
+*   *Languages*: C, PHP, Python
 
-*   *WebTechnogies*: Html, Css, Javascript, Angular.js, Node.js, Jade, less, Coffeescript, D3.js
+*   *WebTechnogies*: Html, Css, Javascript, Angular.js, React, Redux, Node.js, Jade, less, Coffeescript, D3.js
 
-*   *Databases*:MySql, MongoDB, redis
+*   *Databases*:MySql, MongoDB, redis, Cassandra
 
-*   *Tools*:SVN, Git, Grunt, Mocha, fabric, docpad, swagger, markdown, AWS CLI
+*   *Tools*: SVN, Git, Grunt, Mocha, fabric, docpad, swagger, markdown, AWS CLI
+
+*   *statistical tools* : R
 
 Achievements
 -------------
@@ -101,22 +128,24 @@ Achievements
 Strengths
 ---------
 *   Self-motivative
-
 *   High Grasping Power
+*   Hardwork and quick learner
 
-*   Hardwork and quick learn
 
 Interests
 ---------
 
-*   Creating quick reference  technical documents using Markdown
-
-*   Learn and research on the new technolgies
-
-*   improving the good practices in writing readable & maintable code
+*  Volunteering to the SPICE
+*  Traveling – Exploring exotic countries
+*  Gathering content and make it as quick reference technical documents using Markdown
 
 
 Personal Details
 ----------------
 
-*  TBD
+*  Name     : Sivaram nyayapati
+*  DOB      : 06.03.1989
+*  Place    : Hyderabad
+
+
+---
