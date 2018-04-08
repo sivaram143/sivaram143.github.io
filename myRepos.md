@@ -2,6 +2,8 @@
 
 - [Node.js examples and sample projects](https://github.com/sivaram143/nodeApps)
 
+- [My R Practice](https://github.com/sivaram143/R_Practice)
+
 - [My Angular Practice](https://github.com/sivaramny/practical_stuff)
 
 - [My React App](https://github.com/sivaram143/MyReactApp)
