@@ -16,28 +16,35 @@ Career Objective
 Professional Summary
 --------------------
 
-*   Good understanding of overall web design including basic usability, accessibility, industry standards,
+*   Good understanding of end-end web application development including basic usability, accessibility, industry standards,
     architecture, and navigation
-*   Web development experience on Linux servers.
-*   Experience in HTML/CSS (Jade/less)
-*   Having good knowledge of Twitter Bootstrap framework.
-*   Experience in JavaScript and AngularJS
-*   Experience in PHP/MySql application development
-*   Experience in Node.js and asynchronous programming using Express framework
+*   Skilled in grasping the big picture, conceptualizing, developing, implementing solutions.
+*   Insightful professional with notable success in leading and developing new customer requirements while participating in planning, analysis and implementation.
+*   Experience in HTML/CSS (Jade/less), Bootstrap framework
+*   Hands-on Experience in JavaScript, AngularJS and react with redux(state container)
+*   Hands-on Experience in PHP/MySql application development
 *   Ability to translate wireframes into functional web apps using HTML5, AngularJS, Node.js, and Mongo
-*   Hands on experience on NoSQL database – ideally MongoDB
-*   Hands on experience in source code management (GIT)
+*   Experience in Node.js and asynchronous programming using Express, loopback, Socket.io frameworks
+*   Hands-on experience on NoSQL database – ideally MongoDB, Cassandra
+*   Hands-on experience in source code management (GIT)
 *   Experience in Test-driven development
-*   Hands on experience in react with redux(state container)
+*   Hands on experience in R and MS Excel
+*   Experience in Developing web applications using **R-shiny**
+*   Experience in Developing documentation using R-markdown files
 *   Versed in both agile and waterfall development techniques.
-*   Experience in cloud platforms such as AWS
+*   Experience in cloud platforms such as AWS (EC2, S3, IAM, CloudWatch)
+*   Having experience in Python modules (**numpy**, **pandas**, **Matplotlib**)
+*   Having knowledge on developing web application using python-Django framework
 *   Experience in Automated route process using scripts (bash, python, js)
+*   Knowledge on latest languages like Kafka, Spark,
+*   Understanding of machine learning algorithms with **Spark MLib**
 *   Able to handle multiple projects and competing deadlines
 *   Coordinating the installation of software system.
 *   Provide ongoing application support and troubleshooting.
 *   Be responsive to change requests and feature requests
 *   Write code that is cross-platform and cross-device compatible
 *   Organizing technical meetups to enhance skills
+*   Aspire to face new challenges and achieve new milestones.
 *   Tracked and solved tickets for defects on bug reporting tool (Mantis/Bugzilla)
 *   Be an active member of cloud and mobile industry and attend meetups, conferences, etc
 *   Maintaining APIs and existing applications
@@ -58,10 +65,14 @@ Work Experience
     -   Developed the UI screen as per vz company standards.
     -   Understand the LTE basics and part of call trace development of LTE interfaces
     -   Learned splunk web-framework and developed the KPI dashboards using the Cassandra db
+    -   Working exp on IOT analytics with Splunk
     -   Understand and working exp on Apache drill, parquet files
     -   Prepare the technical documentations
+    -   Involving in created data cleaning, data validation script in R/ Python for IOT Analytics insights and reports.
     -   Developed the POC using React, Node.js, Dse graph, Next Ui to show the LTE interface flow in topological view
     -   Understand the gremlin queries
+    -   Understanding of developing web analytics using Piwik
+    -   Having hands-on exp in building the Network diagonsis tool helpful to admins detect the fault (React, Python)
     -   Developed the chat bot app using Amazon Lex as part of Hackthon
     -   Got hands-on experience on the SDN basics as part SDN bootcamp
     -   Apart from technical, Active Participant in CSR activities
@@ -80,6 +91,7 @@ Work Experience
     -   Developing mongo / shell scripts for repetative-tasks
     -   Following good practices to write the code DRY appraoch
     -   Working on TDD approach
+    -   working on graphite to analyze the logs
     -   Involving the agile sprint and scrum
     -   Handling different types of issues.
     -   Working with AWS services
@@ -110,15 +122,15 @@ Skills
 
 *   *Platform*: Windows, Linux, Mac
 
-*   *Languages*: C, PHP, Python
+*   *Languages*: PHP, Python
 
-*   *WebTechnogies*: Html, Css, Javascript, Angular.js, React, Redux, Node.js, Jade, less, Coffeescript, D3.js
+*   *WebTechnogies*: Html, Css, Javascript, Angular.js, React, Redux, Node.js, Jade, less
 
-*   *Databases*:MySql, MongoDB, redis, Cassandra
+*   *Databases*:MySql, MongoDB, redis, Cassandra, graphdb
 
-*   *Tools*: SVN, Git, Grunt, Mocha, fabric, docpad, swagger, markdown, AWS CLI
+*   *Tools*: Git, Agile, Jupyter Notebook, Grunt, Mocha, fabric, docpad, swagger, markdown, R-shiny
 
-*   *statistical tools* : R
+*   *statistical tools* : Excel, R
 
 Achievements
 -------------
@@ -128,7 +140,6 @@ Strengths
 *   Self-motivative
 *   High Grasping Power
 *   Hardwork and quick learner
-
 
 Interests
 ---------
