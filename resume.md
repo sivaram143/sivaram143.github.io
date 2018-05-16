@@ -36,7 +36,7 @@ Professional Summary
 *   Having experience in Python modules (**numpy**, **pandas**, **Matplotlib**)
 *   Having knowledge on developing web application using python-Django framework
 *   Experience in Automated route process using scripts (bash, python, js)
-*   Knowledge on latest languages like Kafka, Spark,
+*   Knowledge on latest languages like Kafka, Spark
 *   Understanding of machine learning algorithms with **Spark MLib**
 *   Able to handle multiple projects and competing deadlines
 *   Coordinating the installation of software system.
@@ -62,9 +62,9 @@ Work Experience
 
     *Analyst-System Dev*, Mar, 2017 - Present
 
-    -   Developed the UI screen as per vz company standards.
+    -   Developed the UI screens as per vz company standards.
     -   Understand the LTE basics and part of call trace development of LTE interfaces
-    -   Learned splunk web-framework and developed the KPI dashboards using the Cassandra db
+    -   Involved in developing of KPI dashboards using splunk web-framework (UI), the Cassandra db (Storage) and Spark (Process and analysis)
     -   Working exp on IOT analytics with Splunk
     -   Understand and working exp on Apache drill, parquet files
     -   Prepare the technical documentations
@@ -72,7 +72,8 @@ Work Experience
     -   Developed the POC using React, Node.js, Dse graph, Next Ui to show the LTE interface flow in topological view
     -   Understand the gremlin queries
     -   Understanding of developing web analytics using Piwik
-    -   Having hands-on exp in building the Network diagonsis tool helpful to admins detect the fault (React, Python)
+    -   Having hands-on exp in building the Network diagonsis tool helpful to admins detect the fault React-Redux(UI),
+    Node.js, Python (Backend Microservices)
     -   Developed the chat bot app using Amazon Lex as part of Hackthon
     -   Got hands-on experience on the SDN basics as part SDN bootcamp
     -   Apart from technical, Active Participant in CSR activities
@@ -88,8 +89,8 @@ Work Experience
     -   Act as build and release engineer
     -   Debug the code fix the bugs
     -   Implementing GUI prototype and code for new enhancements
-    -   Developing mongo / shell scripts for repetative-tasks
-    -   Following good practices to write the code DRY appraoch
+    -   Developing mongo / shell / fabric scripts for repetative-tasks
+    -   Following good practices to write the code DRY approach
     -   Working on TDD approach
     -   working on graphite to analyze the logs
     -   Involving the agile sprint and scrum
