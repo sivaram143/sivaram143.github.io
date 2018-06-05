@@ -17,8 +17,8 @@
 - [CI-Experiment] (https://github.com/sivaram143/codefish-node)
 
 - My Quiz App
-   - [Page](https://sivaram143.github.io/my_quiz-app/app)
-   - [Source](https://github.com/sivaram143/my_quiz-app)
+   - [Page](https://sivaram143.github.io/my-quiz-app/app)
+   - [Source](https://github.com/sivaram143/my-quiz-app/)
 
 - My LMS
    - [Page](https://sivaram143.github.io/my_lms/)
