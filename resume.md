@@ -11,7 +11,7 @@ permalink: /resume/
 
 Career Objective
 ----------------
-5+ years software engineer with a strong educational background and experience, seeking a challenging career with a solid company utilizing the opportunity to offer proven and developing skills within the company.
+6+ years software engineer with a strong educational background and experience, seeking a challenging career with a solid company utilizing the opportunity to offer proven and developing skills within the company.
 
 Professional Summary
 --------------------
@@ -60,7 +60,15 @@ Work Experience
 ---------------
 *   **Verizon** (Hyderabad, India)
 
-    *Analyst-System Dev*, Mar, 2017 - Present
+    *MTS -II /System Enginner, Feb, 2019 - Present
+
+    -   Developed the API / Microservices Using Node.js and Postgresql
+    -   Developed the UI using React by integrating API w.r.t Company Standards
+    -   Preparing the initial documents for newly developers and help them get ready
+    -   Guide and helping juniors to understand the project structure adn technolgies
+    -   Learn and update the new technolgies
+      
+    *Analyst-System Dev*, Mar, 2017 - Jan, 2019
 
     -   Developed the UI screens as per vz company standards.
     -   Understand the LTE basics and part of call trace development of LTE interfaces
@@ -145,7 +153,7 @@ Strengths
 Interests
 ---------
 
-*  Volunteering to the SPICE
+*  Volunteering to the SPICE (CSR)
 *  Traveling – Exploring exotic countries
 *  Gathering content and make it as quick reference technical documents using Markdown
 
