@@ -11,7 +11,7 @@ permalink: /resume/
 
 Career Objective
 ----------------
-6+ years software engineer with a strong educational background and experience, seeking a challenging career with a solid company utilizing the opportunity to offer proven and developing skills within the company.
+8+ years software engineer with a strong educational background and experience, seeking a challenging career with a solid company utilizing the opportunity to offer proven and developing skills within the company.
 
 Professional Summary
 --------------------
@@ -58,9 +58,16 @@ and delegating tasks appropriately and efficiently.
 
 Work Experience
 ---------------
+*   **ADP** (Hyderabad, India)
+
+    Consultant, Dec 2019 - Present
+    - Developing the UI screens as per the company standards.
+    - Developing the on board application of Clients
+    - Working on the recruitment module with Third party integrations
+
 *   **Verizon** (Hyderabad, India)
 
-    *MTS -II /System Enginner, Feb, 2019 - Present
+    *MTS -II /System Enginner, Feb, 2019 - Dec, 2019
 
     -   Developed the API / Microservices Using Node.js and Postgresql
     -   Developed the UI using React by integrating API w.r.t Company Standards
