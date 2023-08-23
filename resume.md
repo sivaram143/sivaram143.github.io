@@ -11,7 +11,7 @@ permalink: /resume/
 
 Career Objective
 ----------------
-8+ years software engineer with a strong educational background and experience, seeking a challenging career with a solid company utilizing the opportunity to offer proven and developing skills within the company.
+Around 10 years software engineer with a strong educational background and experience, seeking a challenging career with a solid company utilizing the opportunity to offer proven and developing skills within the company.
 
 Professional Summary
 --------------------
@@ -20,48 +20,56 @@ Professional Summary
     architecture, and navigation
 *   Skilled in grasping the big picture, conceptualizing, developing, implementing solutions.
 *   Insightful professional with notable success in leading and developing new customer requirements while participating in planning, analysis and implementation.
-*   Experience in HTML/CSS (Jade/less), Bootstrap framework
-*   Hands-on Experience in JavaScript, AngularJS and react with redux(state container)
+*   Experience in HTML5/CSS3 (Jade/less), Bootstrap,  Antd framework
+*   Hands-on Experience in JavaScript, AngularJS and react with redux(state management, reduxtoolkit)
 *   Hands-on Experience in PHP/MySql application development
 *   Ability to translate wireframes into functional web apps using HTML5, AngularJS, Node.js, and Mongo
-*   Experience in Node.js and asynchronous programming using Express, loopback, Socket.io frameworks
+*   Experience in Node.js and asynchronous programming using Express Socket.io frameworks
 *   Hands-on experience on NoSQL database – ideally MongoDB, Cassandra
-*   Hands-on experience in source code management (GIT)
-*   Experience in Test-driven development
-*   Hands on experience in R and MS Excel
-*   Experience in Developing web applications using **R-shiny**
-*   Experience in Developing documentation using R-markdown files
+*   Hands-on experience in source code management (GIT, gitlab, bitbucket)
+*   Experience in Test-driven development (Mocha, jest, supertest) 
 *   Versed in both agile and waterfall development techniques.
 *   Experience in cloud platforms such as AWS (EC2, S3, IAM, CloudWatch)
 *   Having experience in Python modules (**numpy**, **pandas**, **Matplotlib**)
-*   Having knowledge on developing web application using python-Django framework
 *   Experience in Automated route process using scripts (bash, python, js)
-*   Knowledge on latest languages like Kafka, Spark
 *   Understanding of machine learning algorithms with **Spark MLib**
 *   Able to handle multiple projects and competing deadlines
 *   Coordinating the installation of software system.
 *   Provide ongoing application support and troubleshooting.
 *   Be responsive to change requests and feature requests
-*   Write code that is cross-platform and cross-device compatible
 *   Organizing technical meetups to enhance skills
 *   Aspire to face new challenges and achieve new milestones.
-*   Tracked and solved tickets for defects on bug reporting tool (Mantis/Bugzilla)
+*   Tracked and solved tickets for defects on bug reporting tool (Mantis/Bugzilla/Jira) 
 *   Be an active member of cloud and mobile industry and attend meetups, conferences, etc
-*   Maintaining APIs and existing applications
 *   Write code that is cross-platform and cross-device compatible
 *   Creative, resourceful and flexible, able to adapt to changing priorities and maintain a positive attitude and strong work ethic.
 *   Able to work independently, developing and implementing solutions while also able to collaborate with a team, managing
 and delegating tasks appropriately and efficiently.
-*   Ability to wear many hats and learn new technologies quickly
-
-
+*   Ability to wear many hats and learn new technologies quickly. 
 
 Work Experience
 ---------------
+*   **Netcracker** (Hyderabad, India)
+
+    *Senior Sofware Engineer*, May 2022 - Present
+    - Convert Figma mockups to react components
+    - Developing reusable / highlevel components using react hooks
+    - Working on the cloud native products
+    - As an Individual contributor.
+    - Took ownership of couple of new user interface along with backend.
+    - Participated in design discussions
+    - As part of R&D doing some POC and make them into project by approving from stackholders.
+    - Developed one of the useful feature as copy functionality of visible data in different formats (markdown, jira, plainText)
+    - Worked on graphviz to visualize the dependencies.
+    - Took care of build and deployment of dev, qa environments.
+    - Estimated the efforts for the stories and helped others to reach their goals.
+    - Reviewed the code changes of Peers.
+    - Mentoring team members to complete their tasks.
+      
 *   **ADP** (Hyderabad, India)
 
-    Consultant, Dec 2019 - Present
-    - Developing the UI screens as per the company standards.
+    *Consultant* , Dec 2019 - May 2022
+    - Developing the UI screens as per the company standards
     - Developing the on board application of Clients
     - Working on the recruitment module with Third party integrations
 
@@ -144,12 +152,21 @@ Skills
 
 *   *Databases*:MySql, MongoDB, redis, Cassandra, graphdb
 
-*   *Tools*: Git, Agile, Jupyter Notebook, Grunt, Mocha, fabric, docpad, swagger, markdown, R-shiny
+*   *Tools*: Git, Agile, Jupyter Notebook, Grunt, Mocha, fabric, docpad, swagger, markdown, webpack, vite
 
 *   *statistical tools* : Excel, R
 
 Achievements
 -------------
+**ADP** 
+- Received 3 Spot Awards during my tenure for consistently delivering high quality work and 
+providing continuous development and delivery on different features like ZipRecruiter
+Traffic Boost, Unified Shell and Deque Accessibility.
+**Verizon**
+- Received Spot Award for developing Airwave DP from scratch.
+**TeamF1 Networks**
+- Recognized as most valuable peer (MVP) and cash award of 15k for contributing more in
+Business Cloud Project
 
 Strengths
 ---------
