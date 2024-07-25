@@ -11,7 +11,7 @@ permalink: /resume/
 
 Career Objective
 ----------------
-Around 10 years software engineer with a strong educational background and experience, seeking a challenging career with a solid company utilizing the opportunity to offer proven and developing skills within the company.
+Around 11 years software engineer with a strong educational background and experience, seeking a challenging career with a solid company utilizing the opportunity to offer proven and developing skills within the company.
 
 Professional Summary
 --------------------
@@ -49,9 +49,22 @@ and delegating tasks appropriately and efficiently.
 
 Work Experience
 ---------------
+*   **Cognizant** (Hyderabad, India)
+
+    *Manager-Projects*, May 2024 - Present
+    - Working on the AdTech Domain
+    - As an Individual contributor as well as Team Lead
+    - Participated in design discussions
+    - Preparing Technical documentations
+    - Took care of build and deployment of dev, qa environments.
+    - Estimated the efforts for the stories and helped others to reach their goals.
+    - Reviewed the code changes of Peers.
+    - Mentoring team members to complete their tasks.
+    - Part of Interview panel to evaluate the candidates
+
 *   **Netcracker** (Hyderabad, India)
 
-    *Senior Sofware Engineer*, May 2022 - Present
+    *Senior Software Engineer*, May 2022 - May 2024
     - Convert Figma mockups to react components
     - Developing reusable / highlevel components using react hooks
     - Working on the cloud native products
@@ -146,18 +159,22 @@ Skills
 
 *   *Platform*: Windows, Linux, Mac
 
-*   *Languages*: PHP, Python
+*   *Languages*: PHP, Python, Java
 
-*   *WebTechnogies*: Html, Css, Javascript, Angular.js, React, Redux, Node.js, Jade, less
+*   *Web Technologies*: Html, Css, Javascript, Angular, React, Redux, Node.js, Jade, less
 
-*   *Databases*:MySql, MongoDB, redis, Cassandra, graphdb
+*   *Databases*:MySql, MongoDB, redis, Cassandra, GraphDB
 
-*   *Tools*: Git, Agile, Jupyter Notebook, Grunt, Mocha, fabric, docpad, swagger, markdown, webpack, vite
+*   *Devops*: SCM, Jenkins, AWS
 
-*   *statistical tools* : Excel, R
+*   *Tools*: Git, Agile, Jupyter Notebook, Grunt, Mocha, fabric, docpad, swagger, markdown, webpack, vite, VSCode
+
+*   *Statistical Tools* : Excel, R
 
 Achievements
 -------------
+**Netcracker** 
+- Received the Team Award Extra Mile for completing the Features as Quick and Quality way.
 **ADP** 
 - Received 3 Spot Awards during my tenure for consistently delivering high quality work and 
 providing continuous development and delivery on different features like ZipRecruiter
@@ -170,13 +187,14 @@ Business Cloud Project
 
 Strengths
 ---------
-*   Self-motivative
+*   Self-motivating
 *   High Grasping Power
 *   Hardwork and quick learner
 
 Interests
 ---------
 
+*  Volunteering to OutReach (CSR)
 *  Volunteering to the SPICE (CSR)
 *  Traveling – Exploring exotic countries
 *  Gathering content and make it as quick reference technical documents using Markdown
@@ -185,7 +203,7 @@ Interests
 Personal Details
 ----------------
 
-*  Name     : Sivaram nyayapati
+*  Name     : Sivaram Nyayapati
 *  DOB      : 06.03.1989
 *  Place    : Hyderabad
 
